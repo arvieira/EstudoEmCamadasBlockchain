@@ -1,3 +1,8 @@
+Para um melhor entendimento da Tabela \ref{tab:tabelaSinonimos}, as colunas são identificadas como grupos. Cada grupo consiste em um conjunto de termos que estão relacionados pela semântica, sendo assim correlatos ou sinônimos do termo principal. Quanto às linhas, a primeira contém os termos chave extraídos das perguntas sobre o tema.
+No que tange às demais, essas contêm as respectivas palavras relacionadas para compor o grupo em questão.
+
+Seguindo no processo de estudo, foi elaborada uma cadeia de termos com operadores lógicos, no intuito de se realizar buscas em plataformas acadêmicas. Como plataforma para a busca, foi escolhida a denominada ``Link Springer'', acessível pelo endereço ``link.springer.com''. Como plataforma auxiliar de busca, foi escolhida a chamada ``Google Acadêmico'', acessível pelo endereço ``scholar.google.com.br''. Em seguida, aplicando as cadeias de busca nas plataformas em questão, assim como filtros que melhorassem os resultados.
+
 Link Springer:
 https://link.springer.com/search?facet-discipline=%22Computer+Science%22&query=%28blockchain+network+OR+decentralized+ledger+OR+cryptocurrency%29+AND+%28layer+model+OR+study+model+OR+segmentation%29+AND+%28tool+stack+OR+hyperledger+OR+ansible%29
 
