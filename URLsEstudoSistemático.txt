@@ -1,0 +1,5 @@
+Link Springer:
+https://link.springer.com/search?facet-discipline=%22Computer+Science%22&query=%28blockchain+network+OR+decentralized+ledger+OR+cryptocurrency%29+AND+%28layer+model+OR+study+model+OR+segmentation%29+AND+%28tool+stack+OR+hyperledger+OR+ansible%29
+
+Google Scholar:
+https://scholar.google.com.br/scholar?start=30&q=(%22blockchain+network%22+OR+%22decentralized+ledger%22+OR+%22cryptocurrency%22)+AND+(%22layer+model%22+OR+%22study+model%22+OR+%22segmentation%22)+AND+(%22tool+stack%22+OR+%22hyperledger%22+OR+%22ansible%22)&hl=pt-BR&as_sdt=0,5
