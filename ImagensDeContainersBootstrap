@@ -1,0 +1,13 @@
+(...)
+Para iniciar uma rede \textit{blockchain} utilizando do \textit{Hyperledger Fabric}, deve-se executar o \textit{script} de instalação\footnote{https://raw.githubusercontent.com/hyperledger/fabric/master/scripts/bootstrap.sh} provido pela própria \textit{Linux Foundation} em seu site oficial, passando a ele as versões desejadas do \textit{Fabric}, da autoridade certificadora (CA) e das imagens de terceiros. 
+O procedimento de instalação faz uso de \textit{containers} pré-configurados para a construção da rede blockchain.
+A lista completa das imagens de \textit{containers} obtidas nesse primeiro passo se encontra no repositório especificado na seção 2.
+
+
+hyperledger/fabric-javaenv
+hyperledger/fabric-tools
+hyperledger/fabric-ccenv
+hyperledger/fabric-orderer
+hyperledger/fabric-peer
+hyperledger/fabric-ca
+hyperledger/fabric-baseos''
